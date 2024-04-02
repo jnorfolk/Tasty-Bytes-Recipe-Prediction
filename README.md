@@ -23,7 +23,7 @@ The project involves preprocessing recipe data to examine its reliability, perfo
 
 ## Media
 ### Model Precision and Feature Importances
-
+Pending
 
 ## Link to Project Notebook
 [Notebook](https://github.com/yourusername/Recipe-Prediction/blob/main/Recipe-Traffic-Prediction-Final.ipynb)
@@ -35,12 +35,3 @@ Pending
 ### System Requirements
 - Python 3.9.16
 - Jupyter Notebook, and essential libraries (Pandas, NumPy, Scikit-learn, Matplotlib).
-
-### Installation Instructions
-#### 1. Install Python
-Download and install Python 3 from [python.org](https://www.python.org/downloads/).
-
-#### 2. Set Up a Virtual Environment (Optional but Recommended)
-```bash
-python3 -m venv recipe_env
-source recipe_env/bin/activate

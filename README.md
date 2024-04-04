@@ -25,9 +25,6 @@ The project involves preprocessing recipe data to examine its reliability, perfo
 ### Model Precision and Feature Importances
 Pending
 
-## Link to Project Notebook
-[Notebook](https://github.com/yourusername/Recipe-Prediction/blob/main/Recipe-Traffic-Prediction-Final.ipynb)
-
 ## Demo Video
 Pending
 
